@@ -1,0 +1,10 @@
+/CVS/*
+**/CVS/*
+.cvsignore
+*/.cvsignore
+
+/Setup/setup.exe
+setup.msi
+
+/TimeSeriesCollector/bin/SdkLog/*
+/TimeSeriesCollector/obj/*
