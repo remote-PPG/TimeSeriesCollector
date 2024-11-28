@@ -6,4 +6,6 @@
 
 
 
-![main](C:\Users\Administrator\Pictures\main.png)
+
+
+![main](./main.png)
